@@ -1,5 +1,3 @@
-![Taewan GitHub Banner](./kimtaewan.jpg)
-
 안녕하세요 👋
 
 저는 유지보수가 수월한 코드와 성능최적화에 관심이 많습니다!
@@ -43,3 +41,5 @@
 </details>
 
 <br>
+
+![Taewan GitHub Banner](./kimtaewan.jpg)
